@@ -20,7 +20,7 @@ Scraping List
 - Category
 - Address
 - Opening hours
-- Website,
+- Website
 - Phone Number
 - Plus Code
 
