@@ -1,0 +1,10 @@
+[1213/004816.726:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Error) eglCreateContext: Requested GLES version is not supported.
+[1213/004816.730:ERROR:gl_context_egl.cc(286)] eglCreateContext failed with error EGL_BAD_ATTRIBUTE
+[1213/004834.204:INFO:CONSOLE(381)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/ (381)
+[1213/004834.209:INFO:CONSOLE(381)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/ (381)
+[1213/004834.223:INFO:CONSOLE(381)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/ (381)
+[1213/004834.225:INFO:CONSOLE(381)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.google.com/maps/ (381)
+[1213/005627.303:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Error) eglCreateContext: Requested GLES version is not supported.
+[1213/005627.306:ERROR:gl_context_egl.cc(286)] eglCreateContext failed with error EGL_BAD_ATTRIBUTE
+[1214/074402.687:ERROR:gl_surface_egl.cc(782)] EGL Driver message (Error) eglCreateContext: Requested GLES version is not supported.
+[1214/074402.689:ERROR:gl_context_egl.cc(286)] eglCreateContext failed with error EGL_BAD_ATTRIBUTE
