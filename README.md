@@ -1,7 +1,8 @@
 # Google-Maps-Scraper-4Vic
 Google-Maps-Scraper-4Vic
 
-This program scraper all the information from Google Maps using Selenium. You can edit and use the program.
+This program scrapes all the information on Google Maps using Selenium.
+
 You can edit and use the program.
 
 I have removed the license system for you to use comfortably. You can click on the Login button and log in.
